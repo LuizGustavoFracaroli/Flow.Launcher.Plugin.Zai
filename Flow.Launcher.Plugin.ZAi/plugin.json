@@ -1,0 +1,12 @@
+{
+    "ID": "8D3F2A61-5B7E-4C90-A1D4-2E6F9B0C7A35",
+    "ActionKeyword": "zai",
+    "Name": "Z.ai",
+    "Description": "Open Z.ai chat in your browser with your prompt.",
+    "Author": "LuizGustavoFracaroli",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/LuizGustavoFracaroli/Flow.Launcher.Plugin.ZAi",
+    "IcoPath": "Icons/zai.png",
+    "ExecuteFileName": "Flow.Launcher.Plugin.ZAi.dll"
+}
