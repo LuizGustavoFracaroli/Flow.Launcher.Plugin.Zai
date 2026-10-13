@@ -1,6 +1,6 @@
 # Flow.Launcher.Plugin.Zai
 
-A [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher) plugin that opens [Zai AI](https://z.ai) in your browser with your prompt.
+A [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher) plugin that opens [Z.AI](https://z.ai) in your browser with your prompt.
 
 ## Features
 
